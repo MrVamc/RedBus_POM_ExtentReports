@@ -11,7 +11,7 @@ This project demonstrates an automated script using Java Selenium to book a bus 
 3. Make sure chromedriver is installed and its path is set in the code: System.setProperty("webdriver.chrome.driver", "path/to/chromedriver");
 # Usage
 1. POM Class: Contains the web elements and actions for the Redbus homepage.
-2. Date Claa: Handles the logic for selecting today's date.
+2. Date Class: Handles the logic for selecting today's date.
 3. redbusAutomation Class: Executes the test case to book a bus.
 # Contributing
 Feel free to fork this project and make contributions. Pull requests are welcome!
